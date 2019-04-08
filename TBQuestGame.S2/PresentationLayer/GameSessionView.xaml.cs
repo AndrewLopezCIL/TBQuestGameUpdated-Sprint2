@@ -234,7 +234,7 @@ namespace TBQuestGame.PresentationLayer
                     _gameSessionViewModel.bossesDefeated.Add(_gameSessionViewModel.GameMap.CurrentLocation);
                     break;
                 default:
-                    break;
+                    break; 
             }
         }
         //
